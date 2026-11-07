@@ -1,0 +1,7 @@
+{
+  "name": "Phoenix Pharmacy",
+  "description": "Pharmacy operations and inventory intelligence SaaS platform for Nigerian community pharmacies and multi-branch pharmacy businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
